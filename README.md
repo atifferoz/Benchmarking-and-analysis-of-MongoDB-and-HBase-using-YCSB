@@ -1,0 +1,2 @@
+# Benchmarking-and-analysis-of-MongoDB-and-HBase-using-YCSB
+This research was carried out to compare and understand the performance of NoSQL Databases: MongoDB and Hbase using the benchmark tool YCSB.  The performance was tested on top of Ubuntu where each database was run for different workloads. And then the factors like scalability, reliability, and availability for different multiple workloads were run and their results were visualized using visual analytics and compared at various factors.  Technologies used : YCSB, MongoDB, HBase, Linux, MS EXCEL
